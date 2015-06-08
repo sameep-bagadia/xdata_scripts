@@ -1,0 +1,15 @@
+python classify2.py /lfs/local/0/sameepb/xdata/nyc/events3/ pc_cnt_sorted.csv /lfs/local/0/sameepb/xdata/nyc/daily_events3/all/
+python classify2.py /lfs/local/0/sameepb/xdata/nyc/events3/ pc_dist_sorted.csv /lfs/local/0/sameepb/xdata/nyc/daily_events3/all/
+python classify2.py /lfs/local/0/sameepb/xdata/nyc/events3/ pc_time_sorted.csv /lfs/local/0/sameepb/xdata/nyc/daily_events3/all/
+python classify2.py /lfs/local/0/sameepb/xdata/nyc/events3/ pc_speed_sorted.csv /lfs/local/0/sameepb/xdata/nyc/daily_events3/all/
+python classify2.py /lfs/local/0/sameepb/xdata/nyc/events3/ pc_pc_sorted.csv /lfs/local/0/sameepb/xdata/nyc/daily_events3/all/
+python classify2.py /lfs/local/0/sameepb/xdata/nyc/events3_dropoff/ pc_cnt_sorted.csv /lfs/local/0/sameepb/xdata/nyc/daily_events3/dropoff/
+python classify2.py /lfs/local/0/sameepb/xdata/nyc/events3_dropoff/ pc_dist_sorted.csv /lfs/local/0/sameepb/xdata/nyc/daily_events3/dropoff/
+python classify2.py /lfs/local/0/sameepb/xdata/nyc/events3_dropoff/ pc_time_sorted.csv /lfs/local/0/sameepb/xdata/nyc/daily_events3/dropoff/
+python classify2.py /lfs/local/0/sameepb/xdata/nyc/events3_dropoff/ pc_speed_sorted.csv /lfs/local/0/sameepb/xdata/nyc/daily_events3/dropoff/
+python classify2.py /lfs/local/0/sameepb/xdata/nyc/events3_dropoff/ pc_pc_sorted.csv /lfs/local/0/sameepb/xdata/nyc/daily_events3/dropoff/
+python classify2.py /lfs/local/0/sameepb/xdata/nyc/events3_pickup/ pc_cnt_sorted.csv /lfs/local/0/sameepb/xdata/nyc/daily_events3/pickup/
+python classify2.py /lfs/local/0/sameepb/xdata/nyc/events3_pickup/ pc_dist_sorted.csv /lfs/local/0/sameepb/xdata/nyc/daily_events3/pickup/
+python classify2.py /lfs/local/0/sameepb/xdata/nyc/events3_pickup/ pc_time_sorted.csv /lfs/local/0/sameepb/xdata/nyc/daily_events3/pickup/
+python classify2.py /lfs/local/0/sameepb/xdata/nyc/events3_pickup/ pc_speed_sorted.csv /lfs/local/0/sameepb/xdata/nyc/daily_events3/pickup/
+python classify2.py /lfs/local/0/sameepb/xdata/nyc/events3_pickup/ pc_pc_sorted.csv /lfs/local/0/sameepb/xdata/nyc/daily_events3/pickup/
